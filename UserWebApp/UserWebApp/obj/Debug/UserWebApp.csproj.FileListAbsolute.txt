@@ -22,3 +22,27 @@
 /Users/maksimshershun/Documents/Projects/ASP.NET/HomeTasks/UserWebApp/UserWebApp/bin/EntityFramework.SqlServer.dll
 /Users/maksimshershun/Documents/Projects/ASP.NET/HomeTasks/UserWebApp/UserWebApp/bin/EntityFramework.xml
 /Users/maksimshershun/Documents/Projects/ASP.NET/HomeTasks/UserWebApp/UserWebApp/bin/EntityFramework.SqlServer.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/obj/Debug/UserWebApp.csprojAssemblyReference.cache
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/obj/Debug/UserWebApp.csproj.CoreCompileInputs.cache
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/UserWebApp.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/UserWebApp.pdb
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/EntityFramework.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/EntityFramework.SqlServer.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/Microsoft.Web.Infrastructure.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.Helpers.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.Mvc.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.Razor.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.WebPages.Deployment.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.WebPages.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.WebPages.Razor.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.Razor.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.Helpers.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.WebPages.Deployment.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.WebPages.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.WebPages.Razor.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/System.Web.Mvc.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/EntityFramework.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/bin/EntityFramework.SqlServer.xml
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/obj/Debug/UserWebApp.csproj.CopyComplete
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/obj/Debug/UserWebApp.dll
+/Users/maksimshershun/Desktop/ASP.NET checking/UserWebApp/UserWebApp/obj/Debug/UserWebApp.pdb

@@ -41,5 +41,13 @@
 
             return this.View(list);
         }
+
+        public ActionResult Create()
+        {
+            this.ViewBag.InfoForPartial = "Create new";
+
+            return this.View();
+        }
+
     }
 }

@@ -1,1 +1,17 @@
-﻿<h2>Welcome to ASP.NET MVC @ViewData["Version"] on @ViewData["Runtime"]!</h2>
+﻿@model  List<UserWebApp.Models.UserDto>
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8"/>
+</head>
+<body>
+    @foreach (var item in Model)
+    {
+        @item.Name
+        @Html.Raw("&nbsp");
+        @item.dateOfBirthday
+        <br/>
+    }
+</body>
+</html>
