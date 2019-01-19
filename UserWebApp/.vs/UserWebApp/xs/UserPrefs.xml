@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{184A8332-4A69-47EC-BF5B-F705FEB64CA5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UserWebApp/Controllers/UserController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserWebApp/Views/User/Delete.cshtml">
     <Files>
-      <File FileName="UserWebApp/Views/User/Delete.cshtml" Line="24" Column="9" />
-      <File FileName="UserWebApp/Controllers/UserController.cs" Line="99" Column="10" />
+      <File FileName="UserWebApp/Views/User/Delete.cshtml" Line="24" Column="1" />
+      <File FileName="UserWebApp/Controllers/UserController.cs" Line="170" Column="1" />
+      <File FileName="UserWebApp/Views/User/Create.cshtml" Line="43" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
