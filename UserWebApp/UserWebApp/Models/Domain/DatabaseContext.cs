@@ -7,6 +7,9 @@
     /// </summary>
     public class DatabaseContext : DbContext
     {
+        public DatabaseContext () : base("Milin") {
+
+        }
         /// <summary>
         /// Gets or sets the items.
         /// </summary>
